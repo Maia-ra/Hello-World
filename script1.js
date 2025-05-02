@@ -11,3 +11,8 @@ var numOfSlices = 8;
 // Armazena o número 8
 console.log(numOfSlices);
 // Output: 8
+
+let meal = 'Enchiladas';
+console.log(meal); // Output: Enchiladas
+meal = 'Burrito';
+console.log(meal); // Output: Burrito
