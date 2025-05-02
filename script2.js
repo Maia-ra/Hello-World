@@ -7,3 +7,21 @@ let w = 4;
 w = w + 1;
 
 console.log(w); // Output: 5
+
+let z = 4;
+z += 1;
+
+console.log(z); // Output: 5
+
+let x = 20;
+x -= 5; // x = x - 5
+console.log(x); // Output: 15
+
+let y = 50;
+y *= 2; // y = y * 2
+console.log(y); // Output: 100
+
+let m = 8;
+m /= 2; // m = m / 2
+console.log(m); // Output: 4
+
