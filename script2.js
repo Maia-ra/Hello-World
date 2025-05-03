@@ -25,3 +25,17 @@ let m = 8;
 m /= 2; // m = m / 2
 console.log(m); // Output: 4
 
+let levelUp = 10;
+let powerLevel = 9001;
+let multiplyMe = 32;
+let quarterMe = 1152;
+
+levelUp += 5;
+powerLevel -= 100;
+multiplyMe *= 11;
+quarterMe /= 4;
+
+console.log('The value of levelUp:', levelUp);
+console.log('The value of powerLevel:', powerLevel);
+console.log('The value of multplyMe:', multiplyMe);
+console.log('The value of quarterMe:', quarterMe);
