@@ -9,3 +9,17 @@ if (day === 'Saturday' || day === 'Sunday') {
 } else {
     console.log('Do some work.');
 }
+
+if (stopLight === 'green' && pedestrians === 0){
+    console.log('Go!');
+} else {
+    console.log('Stop');
+}
+
+let myVariable = 'I Exist!';
+
+if (myVariable) {
+   console.log(myVariable)
+} else {
+   console.log('The variable does not exist.')
+}
